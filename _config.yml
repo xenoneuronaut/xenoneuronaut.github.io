@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Neuroscience & Self-Experimentation
 twitter_username: mindnotmad
 github_username: xenoneuronaut
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings

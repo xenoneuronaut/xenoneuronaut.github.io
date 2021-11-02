@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Elin Ahlstrand"
+  name   : "Dark Ahlstrand"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "neuroscientist, autodidact, self-experimenter"
   links:

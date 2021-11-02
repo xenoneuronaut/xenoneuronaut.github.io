@@ -17,9 +17,11 @@ title: XenoNeuroNaut
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Neuroscience & Self-Experimentation
+baseurl:
+url: https://xenoneuronaut.github.io
 twitter_username: mindnotmad
 github_username: xenoneuronaut
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -33,7 +35,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -57,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dark Ahlstrand"
+  name   : "Darka Ahlstrand"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "neuroscientist, autodidact, self-experimenter"
   links:

@@ -21,7 +21,7 @@ baseurl:
 url: https://xenoneuronaut.github.io
 twitter_username: mindnotmad
 github_username: xenoneuronaut
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings

@@ -6,6 +6,7 @@ header:
     teaser: assets/images/posts/compassion.jpg
 tags: [neuroscience, compassion, meditation]
 mathjax: true
+classes: wide
 ---
 
 {% include figure image_path="/assets/images/posts/compassion.png" alt="Compassion" %}

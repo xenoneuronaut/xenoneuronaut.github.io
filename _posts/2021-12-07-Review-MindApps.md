@@ -8,6 +8,7 @@ categories:
 tags:
   - ASC
 ---
+
 # A Review of MindApps
 This Book review was written for [The Journal of Transpersonal Psychology](https://atpweb.org/journal.aspx)
 

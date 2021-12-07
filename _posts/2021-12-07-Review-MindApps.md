@@ -5,7 +5,6 @@ excerpt: An introduction to the concept of _MindApps_
 header:
     teaser: assets/images/posts/MindApps.png
 
-categories: [blog, review]
 tags: [ASC]
 classes: wide
 ---
@@ -13,7 +12,7 @@ classes: wide
 # A Review of MindApps
 This Book review was written for [The Journal of Transpersonal Psychology](https://atpweb.org/journal.aspx)
 
-![MindApps Books](/assets/images/posts/MindApps.png){: .full}
+![MindApps Books](/assets/images/posts/MindApps.png)
 
 > ROBERTS, THOMAS B. (2019). [**MindApps: Multistate Theory and Tools for Mind Design.**](https://www.amazon.com/Mindapps-Multistate-Theory-Tools-Design-ebook/dp/B07JZG5V9R) Foreword by James Fadiman, Ph.D. Rochester, VT: Park Street Press. xii + 212 pp. ISBN:9781620558188. Paperback. $21.50. _Reviewed by Elin Ahlstrand._
 
@@ -49,8 +48,10 @@ _MindApps_ is a mindapp in and of itself. An invigorating, quick and clear read 
 > Onwards from the status quo and toward a multistate world! May minds design more minds and may Mind discover Mind.
 
 ***
-![Thomas Roberts](/assets/images/posts/ThomasRoberts.png){: .full}
+![Thomas Roberts](/assets/images/posts/ThomasRoberts.png)
+
 **The Author** - Thomas B. Roberts, Ph.D., is professor emeritus at Northern Illinois University and a former visiting scientist at Johns Hopkins. The coeditor of Psychedelic Medicine and the author of Psychedelic Horizons, he has spoken at international conferences on psychedelics, consciousness, and psychedelic science. He lives in Sycamore, Illinois.
 
-![Elin Ahlstrand](/assets/images/ElinAhlstrand_profile.png){: .full}
+![Elin Ahlstrand](/assets/images/ElinAhlstrand_profile.png)
+
 **Reviewer** - Elin Ahlstrand is completing her BA in Neuroscience at Princeton University and is conducting research on the neurocorrelates of loving-kindness meditation and is deeply interested in group and interpersonal coherence. She is the current president of the Princeton Science of Psychedelics Club (PSPC) and is one of the founding members of the Intercollegiate Psychedelics Network (IPN). She also runs a blog on [https://xenoneuronaut.github.io/](https://xenoneuronaut.github.io//)

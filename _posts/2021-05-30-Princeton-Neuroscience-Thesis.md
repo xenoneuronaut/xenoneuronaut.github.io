@@ -4,7 +4,6 @@ date: 2021-05-30
 excerpt: This is a copy of the thesis I submitted to the Neuroscience department at Princeton University for towards the fulfillment of my degree requirements.
 header:
     teaser: assets/images/posts/compassion.jpg
-
 tags: [neuroscience, compassion, meditation, academia]
 classes: wide
 ---

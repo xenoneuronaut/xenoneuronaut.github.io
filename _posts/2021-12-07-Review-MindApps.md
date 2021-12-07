@@ -4,7 +4,6 @@ date: 2020-11-20
 excerpt: An introduction to the concept of _MindApps_  
 header:
     teaser: assets/images/posts/MindApps.png
-
 tags: [ASC]
 classes: wide
 ---

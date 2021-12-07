@@ -7,10 +7,6 @@
 $link-color: black;
 $link-color-hover: red;
 
-.page__lead {
-  font-size: $type-size-5;
-}
-
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

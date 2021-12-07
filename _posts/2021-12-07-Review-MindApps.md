@@ -1,13 +1,13 @@
 ---
 title: "A Review of MindApps"
 date: 2020-11-20
-excerpt: 
-categories:
-  - blog
-  - review
-  - book
-tags:
-  - ASC
+excerpt: An introduction to the concept of _MindApps_  
+header:
+    teaser: assets/images/posts/MindApps.png
+
+categories: [blog, review]
+tags: [ASC]
+classes: wide
 ---
 
 # A Review of MindApps

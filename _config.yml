@@ -60,10 +60,10 @@ plugins:
 
 # Site Author
 author:
-  name   : ""
+  name   : 
   avatar : "/assets/images/ElinAhlstrand_profile.png"
   bio    : "neuroscientist, autodidact, self-experimenter"
-  email: "xenoneuronaut@protonmail.com"
+  email  : "xenoneuronaut@protonmail.com"
   title_separator: "-"
   links:
     - label: "About"

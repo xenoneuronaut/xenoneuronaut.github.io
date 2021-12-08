@@ -15,3 +15,5 @@ $global-font-family : $sans-serif;
 $header-font-family : $monospace;
 
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

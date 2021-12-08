@@ -6,8 +6,6 @@ header:
 tags: [ASC, ketamine]
 category: [journal]
 toc: true
-	toc_label: "Dates"
-	toc_icon: "dice-d20"
 ---
 
 # 19.02.20_2

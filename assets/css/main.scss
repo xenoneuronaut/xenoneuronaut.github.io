@@ -9,10 +9,10 @@
 
 /* system typefaces */
 $serif      : Georgia, Times, serif;
-$sans-serif : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace  : Monaco, Consolas, "Lucida Console", monospace;
+$sans-serif : "Overpass", Arial, sans-serif;
+$monospace  : "Share Tech Mono", monospace;
 
-$global-font-family : $serif; 
+$global-font-family : $sans-serif; 
 $header-font-family : $monospace;
 
 

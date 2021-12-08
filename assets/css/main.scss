@@ -9,12 +9,13 @@
 
 /* system typefaces */
 $serif      : Georgia, Times, serif;
-$sans-serif : "Overpass", Arial, sans-serif;
+$sans-serif : "Overpass", sans-serif;
 $monospace  : "Share Tech Mono", monospace;
 
 $global-font-family : $sans-serif; 
 $header-font-family : $monospace;
 
+$doc-font-size: 12;
 
 $link-color: black;
 $link-color-hover: blue;
@@ -25,13 +26,4 @@ $link-color-hover: blue;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* type scale */
-$type-size-1 : 1.7em;  // ~27.2px
-$type-size-2 : 1.3em;  // ~20.88px
-$type-size-3 : 1.15em;  // ~18.4px
-$type-size-4 : 1em;   // ~16px
-$type-size-5 : .75em;      // ~12px
-$type-size-6 : 0.6875em;   // ~11px
-$type-size-7 : 0.625em; // ~10px
-$type-size-8 : 0.575em;  // ~9px
 

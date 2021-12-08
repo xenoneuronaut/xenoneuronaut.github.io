@@ -14,10 +14,11 @@ $monospace  : "Share Tech Mono", monospace;
 $global-font-family : $sans-serif; 
 $header-font-family : $monospace;
 
-$doc-font-size: 12;
+$link-color-hover: #45f34f;
 
-$link-color: black;
-$link-color-hover: blue;
+.masthead {
+  font-family: $monospace;
+}
 
 
 // ----- Import ----- //

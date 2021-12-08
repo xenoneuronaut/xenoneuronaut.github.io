@@ -61,7 +61,7 @@ plugins:
 # Site Author
 author:
   name   : 
-  avatar : "/assets/images/ElinAhlstrand_profile.png"
+  avatar : "/assets/images/xeno_samsara.jpg"
   bio    : "neuroscientist, autodidact, self-experimenter"
   email  : "xenoneuronaut@protonmail.com"
   title_separator: "-"
@@ -100,7 +100,6 @@ defaults:
       type: posts
     values:
       layout: single
-      classes: wide
       author_profile: false
       read_time: true
       comments: true

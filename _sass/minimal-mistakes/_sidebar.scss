@@ -25,6 +25,7 @@
 
     &:hover {
       opacity: 1;
+      color: $link-color-hover;
     }
 
     &.sticky {
@@ -56,7 +57,7 @@
 
   p,
   li {
-    font-family: $sans-serif;
+    font-family: $monospace;
     font-size: $type-size-6;
     line-height: 1.5;
   }

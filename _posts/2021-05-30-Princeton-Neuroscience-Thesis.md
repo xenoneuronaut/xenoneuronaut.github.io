@@ -5,7 +5,6 @@ excerpt: This is a copy of the thesis I submitted to the Neuroscience department
 header:
     teaser: assets/images/posts/compassion.jpg
 tags: [neuroscience, compassion, meditation, academia]
-classes: wide
 ---
 
 ![Compassionate Handshake](/assets/images/posts/compassion.png){: .full}

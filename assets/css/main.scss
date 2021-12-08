@@ -7,33 +7,31 @@
 
 // ----- Font ----- //
 
-$serif              : "PT Serif", Georgia, Times, serif;
-$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+/* system typefaces */
+$serif      : Georgia, Times, serif;
+$sans-serif : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
-$global-font-family : $serif;
-$header-font-family : $sans-serif-narrow;
+$global-font-family : $serif; 
+$header-font-family : $monospace;
 
 
 $link-color: black;
 $link-color-hover: blue;
+
 
 // ----- Import ----- //
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-html {
-  font-size: 12px; // change to whatever
+/* type scale */
+$type-size-1 : 1.7em;  // ~27.2px
+$type-size-2 : 1.3em;  // ~20.88px
+$type-size-3 : 1.15em;  // ~18.4px
+$type-size-4 : 1em;   // ~16px
+$type-size-5 : .75em;      // ~12px
+$type-size-6 : 0.6875em;   // ~11px
+$type-size-7 : 0.625em; // ~10px
+$type-size-8 : 0.575em;  // ~9px
 
-  @include breakpoint($medium) {
-    font-size: 14px; // change to whatever
-  }
-
-  @include breakpoint($large) {
-    font-size: 18px; // change to whatever
-  }
-
-  @include breakpoint($x-large) {
-    font-size: 20px; // change to whatever
-  }
-}

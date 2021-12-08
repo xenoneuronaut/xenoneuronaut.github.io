@@ -106,7 +106,7 @@ defaults:
       comments: true
       share: true
       related: true
-      header: true
+      teaser: true
   # _pages
   - scope:
       path: "_pages"

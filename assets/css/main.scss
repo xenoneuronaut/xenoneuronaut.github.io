@@ -14,6 +14,10 @@ $monospace  : "Share Tech Mono", monospace;
 $global-font-family : $sans-serif; 
 $header-font-family : $monospace;
 
+$primary-color: #0f7
+$link-color-hover: #0f7;
+$link-color: black;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -28,6 +32,3 @@ $type-size-7: 0.3em !default; // ~11px
 $type-size-8: 0.2em !default; // ~10px
 
 
-$primary-color: #0f7
-$link-color-hover: #0f7;
-$link-color: black;

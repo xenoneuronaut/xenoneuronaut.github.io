@@ -16,7 +16,7 @@
 title: XenoNeuroNaut
 description: >- # this means to ignore newlines until "baseurl:"
   Neuroscience & Self-Experimentation
-baseurl:
+baseurl: /xenoneuronaut
 url: https://xenoneuronaut.github.io
 twitter_username: mindnotmad
 github_username: xenoneuronaut

@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: XenoNeuroNaut
-email: xenoneuronaut@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Neuroscience & Self-Experimentation
 baseurl:
@@ -24,11 +23,12 @@ github_username: xenoneuronaut
 minimal_mistakes_skin: contrast
 search: true
 
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:title/
+permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -58,14 +58,17 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Site Author
 author:
-  name   : "Elin Ahlstrand"
+  name   : ""
   avatar : "/assets/images/ElinAhlstrand_profile.png"
   bio    : "neuroscientist, autodidact, self-experimenter"
+  email: "xenoneuronaut@protonmail.com"
+  title_separator: "-"
   links:
-  #  - label: "Website"
+    - label: "About"
   #    icon: "fas fa-fw fa-link"
-   #   url: "https://"
+      url: "https://xenoneuronaut.github.io/about/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mindnotmad"
@@ -76,6 +79,8 @@ author:
     #  icon: "fab fa-fw fa-instagram/"
     #  url: "https://instagram.com/elinahlstrand"
 
+
+# Site Footer
 footer:
   links:
     - label: "Twitter"
@@ -95,6 +100,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true

@@ -18,6 +18,21 @@ $primary-color: blue;
 $link-color: white;
 $link-color-hover: blue;
 
+.sidebar{
+  p {
+    font-family: $sans-serif
+    font-size: $type-size-5;
+  }
+
+  li {
+    font-family: $monospace;
+    font-size: $type-size-6;
+    line-height: 1.5;
+  }
+  img {
+    width: 80%;
+	}
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

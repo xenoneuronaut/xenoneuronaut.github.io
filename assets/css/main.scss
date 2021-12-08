@@ -18,14 +18,4 @@ $link-color-hover: #45f34f;
 
 // ----- Import ----- //
 
- @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
  @import "minimal-mistakes"; // main partials
-
-.masthead {
-  font-family: $monospace;
-}
-
-&:hover .header-link {
-      opacity: 1;
-      color: $link-color-hover
-    }

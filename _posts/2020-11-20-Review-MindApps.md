@@ -11,7 +11,7 @@ classes: wide
 
 This Book review was written for [The Journal of Transpersonal Psychology](https://atpweb.org/journal.aspx)
 <figure style="width: 45%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/MindApps.png" alt="">
+  <img src="/assets/images/posts/MindApps.png" alt="">
   <figcaption>Feels good to be right all the time.</figcaption>
 </figure>
 

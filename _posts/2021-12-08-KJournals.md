@@ -1,9 +1,8 @@
 ---
-title: "K-Journals"
+title: "KJournals"
 date: 2021-12-08
 excerpt: this is a journal about too many ketamine experiences
 header:
-    teaser: assets/images/posts/MindApps.png
 tags: [ASC, ketamine]
 category: [journal]
 toc: true

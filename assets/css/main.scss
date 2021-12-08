@@ -15,7 +15,6 @@ $global-font-family : $sans-serif;
 $header-font-family : $monospace;
 
 $primary-color: #0f7
-$link-color-hover: #0f7;
 $link-color: black;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}"; // skin

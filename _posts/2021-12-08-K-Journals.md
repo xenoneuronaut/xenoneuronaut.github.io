@@ -1,6 +1,6 @@
 ---
 title: "K-Journals"
-date: 2021-11-20
+date: 2021-12-08
 excerpt: 
 header:
     teaser: assets/images/posts/MindApps.png

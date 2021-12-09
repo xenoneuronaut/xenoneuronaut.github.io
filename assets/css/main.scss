@@ -35,6 +35,13 @@ $header-font-family : $monospace;
 	font-size: 1em;
 }
 
+
+// Posts
+
+.page__content p, .page__content li, .page__content dl{
+	font-size: 0.8em;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 

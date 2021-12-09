@@ -14,11 +14,25 @@ $header-font-family : $monospace;
 
 
 // Masthead
+.masthead{
+	background-color: black;
+}
 .masthead__inner-wrap{
 	background-color: limegreen;
 }
 .site-title{
 	font-family: $monospace;
+}
+
+// Layout: Archive
+
+.archive__subtitle{
+	font-family: $sans-serif;
+	font-size: 1.5em;
+}
+.archive__item-title{
+	font-family: $monospace;
+	font-size: 1em;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin

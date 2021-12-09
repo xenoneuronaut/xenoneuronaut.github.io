@@ -17,9 +17,8 @@ My aim was to write for a layman audience - which my professors did not support.
 
 Download my thesis [here](https://xenoneuronaut.github.io/assets/files/2021_NEU-Thesis_ea4.pdf).
 
-<figure style="width: 100%" class="align-center">
 <embed src="assets/files/2021_NEU-Thesis_ea4.pdf" type="application/pdf">
-</figure>
+
 
 
 

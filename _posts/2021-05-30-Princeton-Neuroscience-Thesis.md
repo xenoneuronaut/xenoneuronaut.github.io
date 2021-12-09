@@ -15,6 +15,11 @@ This is a copy of the thesis I submitted to the Neuroscience department at Princ
 
 My aim was to write for a layman audience - which my professors did not support. So -here is the file for your viewing - if there is ever any curiosity on the topic!
 
-<embed src="/assets/files/NEU_Thesis_ea4.pdf" type="application/pdf">
+Download my thesis [here](https://xenoneuronaut.github.io/assets/files/2021_NEU-Thesis_ea4.pdf).
 
-Download my thesis [here](https://xenoneuronaut.github.io/assets/files/NEU_Thesis_ea4.pdf).
+<figure style="width: 100%" class="align-center">
+<embed src="assets/files/2021_NEU-Thesis_ea4.pdf" type="application/pdf">
+</figure>
+
+
+

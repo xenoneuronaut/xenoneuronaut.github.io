@@ -10,7 +10,7 @@ classes: wide
 ---
 
 This Book review was written for [The Journal of Transpersonal Psychology](https://atpweb.org/journal.aspx)
-<figure style="width: 45%" class="align-center">
+<figure style="width: 60%" class="align-center">
   <img src="/assets/images/posts/MindApps.png" alt="">
   <figcaption>Feels good to be right all the time.</figcaption>
 </figure>
@@ -49,11 +49,12 @@ _MindApps_ is a mindapp in and of itself. An invigorating, quick and clear read 
 > Onwards from the status quo and toward a multistate world! May minds design more minds and may Mind discover Mind.
 
 ***
-![Thomas Roberts](/assets/images/posts/ThomasRoberts.png){:width="25%"; :align="left"}
+<figure style="width: 60%" class="align-left">
+  <img src="/assets/images/posts/ThomasRoberts.png" alt="Thomas Roberts">
+  <figcaption>**The Author** - Thomas B. Roberts, Ph.D., is professor emeritus at Northern Illinois University and a former visiting scientist at Johns Hopkins. The coeditor of Psychedelic Medicine and the author of Psychedelic Horizons, he has spoken at international conferences on psychedelics, consciousness, and psychedelic science. He lives in Sycamore, Illinois.</figcaption>
+</figure>
 
-**The Author** - Thomas B. Roberts, Ph.D., is professor emeritus at Northern Illinois University and a former visiting scientist at Johns Hopkins. The coeditor of Psychedelic Medicine and the author of Psychedelic Horizons, he has spoken at international conferences on psychedelics, consciousness, and psychedelic science. He lives in Sycamore, Illinois.
-
-![Elin Ahlstrand](/assets/images/ElinAhlstrand_profile.png){:width="25%"; :align="right"}
-
-
-**Reviewer** - Elin Ahlstrand is completing her BA in Neuroscience at Princeton University and is conducting research on the neurocorrelates of loving-kindness meditation and is deeply interested in group and interpersonal coherence. She is the current president of the Princeton Science of Psychedelics Club (PSPC) and is one of the founding members of the Intercollegiate Psychedelics Network (IPN). She also runs a blog on [https://xenoneuronaut.github.io/](https://xenoneuronaut.github.io//)
+<figure style="width: 60%" class="align-right">
+  <img src="/assets/images/ElinAhlstrand_profile.png" alt="Elin Ahlstrand">
+  <figcaption>**Reviewer** - Elin Ahlstrand is completing her BA in Neuroscience at Princeton University and is conducting research on the neurocorrelates of loving-kindness meditation and is deeply interested in group and interpersonal coherence. She is the current president of the Princeton Science of Psychedelics Club (PSPC) and is one of the founding members of the Intercollegiate Psychedelics Network (IPN). She also runs a blog on [XenoNeuroNaut](https://xenoneuronaut.github.io)</figcaption>
+  </figure>

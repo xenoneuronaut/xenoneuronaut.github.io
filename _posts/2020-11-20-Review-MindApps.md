@@ -12,7 +12,6 @@ classes: wide
 This Book review was written for [The Journal of Transpersonal Psychology](https://atpweb.org/journal.aspx)
 <figure style="width: 60%" class="align-center">
   <img src="/assets/images/posts/MindApps.png" alt="">
-  <figcaption>Feels good to be right all the time.</figcaption>
 </figure>
 
 > ROBERTS, THOMAS B. (2019). [**MindApps: Multistate Theory and Tools for Mind Design.**](https://www.amazon.com/Mindapps-Multistate-Theory-Tools-Design-ebook/dp/B07JZG5V9R) Foreword by James Fadiman, Ph.D. Rochester, VT: Park Street Press. xii + 212 pp. ISBN:9781620558188. Paperback. $21.50. _Reviewed by Elin Ahlstrand._

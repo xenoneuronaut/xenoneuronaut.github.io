@@ -4,46 +4,13 @@
 
 @charset "utf-8";
 
-$link-color: red;
-
-$sans-serif: "Overpass", sans-serif;
-$monospace : "Share Tech Mono", monospace; 
-
-$global-font-family : $sans-serif;
-$header-font-family : $monospace;
 
 
 // Masthead
-.masthead{
-	background-color: black;
-}
-.masthead__inner-wrap{
-	background-color: limegreen;
-}
-.site-title{
-	font-family: $monospace;
-}
+$masthead-link-color: white;
 
-// Layout: Archive
-
-.archive__subtitle{
-	font-family: $sans-serif;
-	font-size: 1.5em;
-}
-.archive__item-title{
-	font-family: $monospace;
-	font-size: 1em;
-}
-
-// Posts
-.page__content p, .page__content li, .page__content dl{
-	font-size: 0.8em;
-}
-
-figcaption{
-	font-family: $sans-serif;
-}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
 

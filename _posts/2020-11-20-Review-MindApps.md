@@ -3,8 +3,7 @@ title: "A Review of MindApps"
 date: 2020-11-20
 excerpt: An introduction to the concept of _MindApps_  
 header:
-    teaser: assets/images/header.gif
-    image: assets/images/header.gif
+    teaser: assets/images/posts/MindApps.png
 tags: [ASC]
 category: [publication]
 classes: wide
@@ -56,5 +55,5 @@ _MindApps_ is a mindapp in and of itself. An invigorating, quick and clear read 
 
 <figure style="width: 40%" class="align-right">
   <img src="/assets/images/ElinAhlstrand_profile.png" alt="Elin Ahlstrand">
-  <figcaption style="font-family: $monospace"><b>Reviewer</b> - Elin Ahlstrand is completing her BA in Neuroscience at Princeton University and is conducting research on the neurocorrelates of loving-kindness meditation and is deeply interested in group and interpersonal coherence. She is the current president of the Princeton Science of Psychedelics Club (PSPC) and is one of the founding members of the Intercollegiate Psychedelics Network (IPN). She also runs a blog on [XenoNeuroNaut](https://xenoneuronaut.github.io)</figcaption>
+  <figcaption style="font-family: $monospace"><b>Reviewer</b> - Elin Ahlstrand is completing her BA in Neuroscience at Princeton University and is conducting research on the neurocorrelates of loving-kindness meditation and is deeply interested in group and interpersonal coherence. She is the current president of the Princeton Science of Psychedelics Club (PSPC) and is one of the founding members of the Intercollegiate Psychedelics Network (IPN). She also runs a blog on xenoneuronaut.github.io</figcaption>
   </figure>

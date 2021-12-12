@@ -24,7 +24,7 @@
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-     background-image: url('header.gif');
+     background-image: url('neurons.jpg');
 
     @include breakpoint($x-large) {
       max-width: $max-width;
@@ -50,8 +50,8 @@
   display: flex;
   -ms-flex-item-align: center;
   align-self: center;
-  font-weight: bold;
   font-family: $monospace ;
+  font-size: $type-size-3;
   // z-index: 20;
 }
 
@@ -87,6 +87,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-family: $monospace;
 
   &--lg {
     padding-right: 2em;

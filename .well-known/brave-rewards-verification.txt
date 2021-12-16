@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: xenoneuronaut.github.io
+Token: 7b3ece207a6a1309c97ff41b071738fa66533855d16c8abb5a53e602c38fa87c

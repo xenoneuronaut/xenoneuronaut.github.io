@@ -33,10 +33,10 @@ url                      : "https://xenoneuronaut.github.io" # the base hostname
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "xenoneuronaut/xenoneuronaut.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/favicons/favicon-16x16.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # "/assets/images/favicons/android-chrome-512x512.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 300
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -66,7 +66,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   :   true (default)
 search                   :   true #false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -89,7 +89,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name   : 
-  avatar : "/assets/images/xeno_samsara.jpg"
+  avatar : "/assets/images/logo_xeno.png"
   bio    : "neuroscientist, autodidact, self-experimenter"
   email  : "xenoneuronaut@protonmail.com"
   title_separator: "-"

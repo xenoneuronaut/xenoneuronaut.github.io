@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: "posts"
     url: /posts/
-  - title: "collections"
-    url: /collections/
+  # - title: "collections"
+  #   url: /collections/
   - title: "tags"
     url: /tags/
   - title: "files"

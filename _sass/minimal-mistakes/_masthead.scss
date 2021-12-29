@@ -10,7 +10,8 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
-  background-color: $primary-color;
+  background-image: url('neurons.jpg');
+  // background-color: $primary-color;
 
   &__inner-wrap {
     @include clearfix;
@@ -24,7 +25,7 @@
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-     background-image: url('neurons.jpg');
+      // background-image: url('neurons.jpg');
 
     @include breakpoint($x-large) {
       max-width: $max-width;

@@ -5,7 +5,7 @@ main:
     url: /posts/
   # - title: "collections"
   #   url: /collections/
-  - title: "tags"
-    url: /tags/
-  - title: "files"
-    url: /files/
+  # - title: "tags"
+  #   url: /tags/
+  # - title: "files"
+  #   url: /files/

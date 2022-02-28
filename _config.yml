@@ -26,7 +26,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "XenoNeuroNaut"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "A neuroscienctist exploring alien state spaces of consciousness" # site tagline that appears below site title in masthead
 name                     : ""
 description              : "Neuroscience & Self-Experimentation"
 url                      : "https://xenoneuronaut.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -67,7 +67,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   :   true (default)
-search                   :   true #false (default)
+search                   :   true (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -88,9 +88,9 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name   : 
-  avatar : "/assets/images/logo_xeno.png"
-  bio    : "neuroscientist, autodidact, self-experimenter"
+  name   : "XenoNeuroNaut"
+  avatar : "/assets/images/neuralkn0t.jpg"
+  bio    : "neuroscientist | autodidact | self-experimenter | dissohead"
   email  : "xenoneuronaut@protonmail.com"
   title_separator: "-"
   links:
